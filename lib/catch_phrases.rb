@@ -13,5 +13,6 @@ def link
   zelda = "It's Dangerous To Go Alone! Take This."
   puts zelda
   
-def any_phrase()
+def any_phrase(saying)
+  saying = 
   
