@@ -10,6 +10,8 @@ def toadstool
 end
 
 def link
-  zelda = 
-def any_phrase
+  zelda = "It's Dangerous To Go Alone! Take This."
+  puts zelda
+  
+def any_phrase()
   
