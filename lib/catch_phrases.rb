@@ -12,7 +12,10 @@ end
 def link
   zelda = "It's Dangerous To Go Alone! Take This."
   puts zelda
+end  
   
 def any_phrase(saying)
-  saying = 
+  saying = "Do A Barrel Roll!"
+  puts saying
+end  
   
